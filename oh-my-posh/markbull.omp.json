@@ -113,5 +113,10 @@
   ],
   "console_title_template": "{{if .Root}}\u26a1 {{end}}{{.Folder}}",
   "final_space": true,
+  "transient_prompt": {
+    "background": "transparent",
+    "foreground": "#FEF5ED",
+    "template": "\ue285 "
+  },
   "version": 4
 }
